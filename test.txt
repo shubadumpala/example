@@ -2,4 +2,4 @@ Welcome to Devops course
 
 Added second line in file
 
-Changes of developer1
+Changes of developer2
